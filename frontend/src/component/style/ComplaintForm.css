@@ -1,0 +1,13 @@
+.complaint-container {
+    max-width: 75%; 
+    margin: auto;
+}
+
+#complaint {
+    resize: none; 
+}
+
+.btn-lg {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+}

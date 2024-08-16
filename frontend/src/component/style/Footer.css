@@ -1,0 +1,45 @@
+.footer {
+    margin-top: 2rem;
+    background-color: #597795;
+    color: #ffffff;
+}
+
+.footer h5 {
+    margin-bottom: 1rem;
+}
+
+.footer ul {
+    padding-left: 0;
+}
+
+.footer ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer hr {
+    margin: 2rem 0;
+}
+
+.footer .text-center {
+    margin-top: 1rem;
+}
+
+/* Add padding between social icons */
+.footer .social-icons {
+    display: flex;
+    gap: 15px; /* Adjust this value to change the space between icons */
+    padding: 0;
+}
+
+.footer .social-icons li {
+    list-style: none;
+}
